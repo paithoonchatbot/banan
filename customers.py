@@ -1,1 +1,2 @@
 print('Customers')
+print('Friend')
